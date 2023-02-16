@@ -44,3 +44,14 @@ body {
 .info_card {
     display: flex;
 }
+
+.footer_columns {
+    display: flex;
+}
+.footer_column {
+    display: flex;
+    flex-direction: column;
+}
+.col {
+    display: flex;
+}
