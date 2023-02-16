@@ -10,3 +10,37 @@
 body {
     font-family: 'GothamPro';
 }
+.wrapper {
+    max-width: 1320px;
+    margin: auto;
+}
+.welcome_wrapper {
+    background: url(images/img/Image\ Plonq\ 500.jpg) no-repeat center;
+    width: 100%;
+    height: 950px;
+}
+.product_main {
+    width: 780px;
+    display: flex;
+    justify-content: space-between;
+}
+.product_cards {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+}
+.product_card {
+    display: flex;
+    height: 452px;
+    width: 416px;
+}
+.map {
+    margin: 0 auto;
+    height: 455px;
+    width: 1108px;
+    background: url(/images/img/image_MAP.jpg) no-repeat center;
+}
+.info_card {
+    display: flex;
+}
