@@ -1,0 +1,47 @@
+@media (max-width:960px) {
+    .header_link {
+        display: none;
+    }
+    .logo {
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+    .wrapper {
+        max-width: 960px;
+        margin: auto;
+    }
+    .welcome_content {
+        position: relative;
+        top: 100px;
+        left: 180px;
+    }
+    .welcome_buttons {
+        position: relative;
+        right: 150px;
+        top: 400px;
+    }
+    .map {
+        width: 670px;
+        height: 368px;
+        margin-left: 0px;
+    }
+    .info_wrapper {
+        background-color: #fff;
+    }
+    .shops {
+        background-color: #fff;
+    }
+    .shops_title {
+        margin-left: 200px;
+    }
+    .button_shop {
+        margin-right: 520px;
+    }
+    .info_cards {
+        width: 960px;
+        display: block;
+    }
+    .footer_column {
+        margin: auto;
+    }
+}
